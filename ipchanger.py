@@ -1,20 +1,7 @@
 # -*- coding: utf-8 -*-
-
-
-
 import time
-
 import os
-
 import subprocess
-
-
-
-
-
-
-
-
 
 try:
 
@@ -34,15 +21,7 @@ except subprocess.CalledProcessError:
 
     print('[!] pip3 installed succesfully')
 
-
-
-
-
-
-
 try:
-
-
 
     import requests
 
@@ -109,14 +88,6 @@ print("https://www.facebook.com/prabesh.bakhrel.9\n")
 
 
 os.system("service tor start")
-
-
-
-
-
-
-
-
 
 time.sleep(3)
 
