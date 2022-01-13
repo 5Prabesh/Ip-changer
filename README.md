@@ -12,7 +12,7 @@ how to install this tools :
 
 1: git clone https://github.com/5Prabesh/Ip-changer.git
 
-2 : cd Auto_Tor_IP_changer
+2 : cd command
 
 3 : python3 install.py
 
