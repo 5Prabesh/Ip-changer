@@ -15,5 +15,5 @@ if str(choice) =='Y' or str(choice)=='y':
 if str(choice)=='N' or str(choice)=='n':
     run('rm -r /usr/share/aut ')
     run('rm /usr/bin/aut ')
-    print('[!] now Auto Tor Ip changer  has been removed successfully')
+    print('[!] now Ip changer  has been removed successfully')
 
