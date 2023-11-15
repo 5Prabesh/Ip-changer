@@ -4,11 +4,12 @@ change your Ip Address automatically
 
 how to install this tools :
 
-* : requirements:
+ * requirements:
 
-  sudo apt-get install tor
+ * sudo apt-get install tor
+   <br/>
   
-  pip3 install requests[socks]
+ * pip3 install requests[socks]
   
   or just run autoTor it will install everything
 
